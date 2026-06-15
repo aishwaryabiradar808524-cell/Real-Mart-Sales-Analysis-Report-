@@ -202,7 +202,7 @@ Reduces manual reporting efforts and improves reporting accuracy.
 
 ---
 
-# Dashboard Preview-https://github.com/AkashBirge/Real-mart-sales-analysis/blob/main/Screenshot%20of%20real%20mart%20sales%20analysis.png
+# Dashboard Preview-https://github.com/aishwaryabiradar808524-cell/Real-Mart-Sales-Analysis-Report-/blob/main/README.md
 
 
 ---
